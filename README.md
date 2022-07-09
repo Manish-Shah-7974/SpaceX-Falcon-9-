@@ -1,5 +1,5 @@
 # SpaceX Falcon 9 Launch
-->Predicting whether the Falcon 9 first stage will land successfully or not.
+->Predicting whether the Falcon 9 first stage will land successfully or not
 ->Used Data Science methodologies to define and formulate real-world business problems
 
  * Data Collection – SpaceX API , Web-Scraping
