@@ -1,9 +1,10 @@
 # SpaceX Falcon 9 Launch
-Predicting the Falcon 9 first stage will land successfully or not .
-Used data science methodologies to define and formulate a real-world business problem :
-1. Collecting the Data - Webscraping , SpaceX API
-2. Data Wrangling
-3. Exploratory Data Analysis (EDA)
-4. Interactive Visual Analytics and Dashboard
-5. Predictive Analysis (ML - Classification)
-6. Presenting Data-Driven Insights
+->Predicting whether the Falcon 9 first stage will land successfully or not.
+->Used Data Science methodologies to define and formulate real-world business problems
+
+ * Data Collection – SpaceX API , Web-Scraping
+ * Data Wrangling - IBM Db2, Pandas, Numpy
+ * EDA – SQL , Matplotlib , Seaborn , Folium
+ * Interactive Dashboard – Plotly Dash 
+ * Predictive Analysis – ML Classification Model 
+ * Presenting Data-Driven Insights
